@@ -1,4 +1,4 @@
-package DAY3;
+package SunDAY1;
 
 
 

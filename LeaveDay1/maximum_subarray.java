@@ -1,3 +1,4 @@
+package LeaveDay1;
 class Solution {
     public int maxSubArray(int[] nums) {
         int n=nums.length;

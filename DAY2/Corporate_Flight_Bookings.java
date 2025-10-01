@@ -1,3 +1,4 @@
+package DAY2;
 class Solution {
     public int[] corpFlightBookings(int[][] bookings, int n) {
         int[] flight = new int[n];
